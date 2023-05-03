@@ -1,0 +1,5 @@
+com/example/StorageService.class
+com/example/StorageServiceFactory.class
+com/example/App.class
+com/example/AwsS3StorageService.class
+com/example/AzureBlobStorageService.class
